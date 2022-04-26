@@ -1,3 +1,5 @@
+<br/>
+
 # 세상에 나쁜 기부는 없다(세나기)
 
 <img src="README.assets/logo.png">
@@ -13,7 +15,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/u/87460980?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/90020710?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/18136160?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/77664576?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/87462034?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/48577694?v=4" width=200>|
 |<span>Backend</span>|<span>Backend</span>|<span>Blockchain</span>|<span>Frontend</span>|<span>Frontend</span>|<span>Frontend</span>|
-[@ethanKim93](https://github.com/kyoungDongDD)|[@kyoungDongDD](https://github.com/kyoungDongDD)|[@Kodo92](https://github.com/Kodo92)|[@haiyinde](https://github.com/haiyinde)|[@backcy855](https://github.com/backcy855)|[@alskal1](https://github.com/alskal1)|
+[@ethanKim93](https://github.com/ethanKim93)|[@kyoungDongDD](https://github.com/kyoungDongDD)|[@Kodo92](https://github.com/Kodo92)|[@haiyinde](https://github.com/haiyinde)|[@backcy855](https://github.com/backcy855)|[@alskal1](https://github.com/alskal1)|
 
 
 <br/>
